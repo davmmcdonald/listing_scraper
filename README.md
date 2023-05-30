@@ -16,4 +16,4 @@ Make sure you have Python 3 installed on your system. The script requires the fo
 
 Before running the script, ensure that you have the necessary packages installed. You can install the required packages by running the following command:
 
-```pip install beautifulsoup4
+`pip install beautifulsoup4`
