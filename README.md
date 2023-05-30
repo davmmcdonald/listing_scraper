@@ -2,8 +2,9 @@
 
 This is a web scraping script written in Python that extracts data from a website and saves it to a CSV file. It is currently designed to scrape property listings from the following brokerages, with additional sites being added. :sunglasses:
 
-- Hoff & Leigh Commercial Real Estate
-- Quamtum Commercial Group
+- Hoff & Leigh Commercial Real Estate (ls-hoff-leigh.py)
+- Quamtum Commercial Group (ls-quantum.py)
+- Kratt Commercial Properties (ls-kratt-commercial.py)
 
 ## Usage
 
