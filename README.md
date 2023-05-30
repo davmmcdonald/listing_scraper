@@ -6,11 +6,11 @@ This is a web scraping script written in Python that extracts data from a websit
 
 Make sure you have Python 3 installed on your system. The script requires the following command-line arguments:
 
-```python3 ls-hoff-leigh.py <url> <output.csv>```
+`python3 ls-hoff-leigh.py <url> <output.csv>`
 
-- `<url>`: The URL of the LS Hoff-Leigh website to scrape data from.
+- `<url>`: The URL web page to scrape data from.
 - `<output.csv>`: The name of the output CSV file to save the scraped data.
 
 Before running the script, ensure that you have the necessary packages installed. You can install the required packages by running the following command:
 
-```pip install beautifulsoup4```
+`pip install beautifulsoup4`
